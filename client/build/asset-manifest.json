@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e2f04468.css",
+    "main.js": "/static/js/main.e19bf37f.js",
+    "static/js/787.9130d154.chunk.js": "/static/js/787.9130d154.chunk.js",
+    "static/media/coin-front.svg": "/static/media/coin-front.72fd75fe4d519b8696043ccbccfa324c.svg",
+    "static/media/coin-back-loading.svg": "/static/media/coin-back-loading.f58fa8826883dabecebb9b494c357a7d.svg",
+    "static/media/coin-back-ready.svg": "/static/media/coin-back-ready.137166922786c47ec0711e834c04e94e.svg",
+    "static/media/quitButton.svg": "/static/media/quitButton.1ce4eb4af360d7c902e5c0fcab3fba5b.svg",
+    "static/media/hamburger.svg": "/static/media/hamburger.623f55e33d6e902440ae2fd63454b6ff.svg",
+    "index.html": "/index.html",
+    "main.e2f04468.css.map": "/static/css/main.e2f04468.css.map",
+    "main.e19bf37f.js.map": "/static/js/main.e19bf37f.js.map",
+    "787.9130d154.chunk.js.map": "/static/js/787.9130d154.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2f04468.css",
+    "static/js/main.e19bf37f.js"
+  ]
+}
